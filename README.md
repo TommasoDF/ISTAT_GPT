@@ -11,7 +11,7 @@ This application is based on "Building a Virtual Teaching Assistant for Your Cla
 
 1. **Prepare Your Documents**: Place your documents in the "Document" folder. The current version of the script supports PDF, DOC/DOCX, TXT, and LaTeX files.
 
-2. **Obtain OpenAI API Key**: Visit https://openai.com/blog/openai-api to acquire your OpenAI API key.
+2. **Obtain OpenAI API Key**: Visit https://openai.com/blog/openai-api to acquire your OpenAI API key, then past the API key in the "APIkey.txt" file.
 
 3. **Configure Settings**: Open the "settings.txt" file in the main folder and customize it for your specific case.
 
