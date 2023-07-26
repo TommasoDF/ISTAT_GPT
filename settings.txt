@@ -1,0 +1,6 @@
+istitution=ISTAT
+istitutiondescription=The Italian National Institute of Statistics, a public research organisation
+instructions=I am an experimental virtual assistant for the Italian National Institute of Statistics (ISTAT).  I have been trained with an extensive dataset of ISTAT. I am generally truthful, but be aware that there is a large language model in the background and hallucinations are possible. The more precise your question, the better an answer you will get. You may ask me questions in the language of your choice.  If "an error occurs while processing", ask your question again: the servers we use to process these answers are also in beta.
+assistantname=ISTAT GPT
+num_chunks=8
+filedirectory=Documents
