@@ -4,6 +4,9 @@
 
 ISTAT_GPT is a virtual assistant powered by GPT models, designed to provide improved answers based on a user-provided dataset. The assistant utilizes GPT-3.5 models and a user's collection of documents to offer accurate and informative responses to user queries.
 
+This application is based on "Building a Virtual Teaching Assistant for Your Class" by Kevin Bryan, available at https://github.com/kevincure/All-Day-TA.
+
+
 ## Instructions
 
 1. **Prepare Your Documents**: Place your documents in the "Document" folder. The current version of the script supports PDF, DOC/DOCX, TXT, and LaTeX files.
@@ -30,5 +33,4 @@ Press CTRL+C to quit
 
 8. **Access the Virtual Assistant**: Open a browser and enter http://localhost:5000/. Your Virtual Assistant should now be operational and ready to assist you.
 
-Please note that this application is intended for development purposes and is not recommended for production deployments. For production environments, consider using a production WSGI server.
 
